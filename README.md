@@ -1,4 +1,8 @@
-# 2024project1
+# 2024-산학프로젝트1
+
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ## 목차
   - [개요](#개요)
