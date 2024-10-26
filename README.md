@@ -47,5 +47,10 @@ pip install -r requirements.txt
 <br/>
 <br/>
 
-## 기타 추가 사항들
+## 참고 문헌
+- Hyukjoon Kwon, Sang Jeen Hong, Use of Optical Emission Spectroscopy Data for Fault Detection of Mass Flow Controller in Plasma Etch Equipment, Electronics 2022 11(2)
+- Mahmood K. M. Almansoori , Miklos Telek , Anomaly Detection using combination of Autoencoder and Isolation Forest, Department of Networked Systems and Services, Technical University of Budapest, Budapest, Hungary
+- sahandha 외 4인, Extended Isolation Forest for Anomaly Detection, url: https://github.com/sahandha/eif
+
+
 
