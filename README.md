@@ -35,5 +35,5 @@ pip install -r requirements.txt
 -
 
 
-## 기타 추가 사항
+## 기타 추가 사항들
 
