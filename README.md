@@ -43,6 +43,7 @@ pip install -r requirements.txt
 
 ## 주요 기능
 - OES(Optical Emission Spectroscopy)센서 데이터를 Oxidation 공정에서 실시간으로 장비의 센서 데이터를 모니터링하고 결함을 탐지하고, 발생하는  이상을 식별하는  FDC(Fault Detection & Classification)의 효율을 오토인코더를 사용하여 개선합니다.
+- 오토인코더를 사용하여 데이터의 차원을 낮은 차원으로 변경한 뒤에 EIF 알고리즘을 활용하여 이상을 탐지하는 방식입니다.
   
 <br/>
 <br/>
