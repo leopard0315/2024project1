@@ -4,6 +4,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=&height=300&section=header&text=산학%20프로젝트1&fontSize=90)
 
+*산학프로젝트1 MJU_2024_2_@@@*
+
+*@@@은 AutoEncoder와 EIF Algorithm을 결합한 OES데이터의 새로운 이상탐지 기법을 제시합니다. 현재 학교에서는 반도체 8대공정 중, Oxidation 공정에서의 광스펙트럼을 진단하는 장치인 OES센서 데이터를 unsupervised learning 기반의 Extended Isolation Forest(EIF)를 사용하여 이상탐지를 진행하고 있었습니다. 기존의 방식보다 더 효율적인 방법으로 개선하기 위해 OES데이터를 AutoEncoder를 통해 낮은 차원의 데이터로 가공한 뒤에 EIF알고리즘을 활용하는 방안을 제안하여 개발하게 되었습니다.*
 
 
 </div>
