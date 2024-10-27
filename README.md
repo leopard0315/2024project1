@@ -37,7 +37,7 @@ pip install -r requirements.txt
 <br/>
 
 ## 기술 스택
-- python, pytorch, pandas, Numpy, Matplotlib
+- Python, Pytorch, Pandas, Numpy, Matplotlib
 <br/>
 <br/>
 
